@@ -3,11 +3,15 @@
   "version": "0.1.0",
   "description": "A desktop app for Deezer created with nativefier",
   "scripts": {
-    "build": "nativefier 'https://www.deezer.com' --name 'Deezer' --global-shortcuts shortcuts.json"
+    "build": "nativefier 'https://www.deezer.com' --name 'Deezer' --global-shortcuts shortcuts.json",
+    "clean": "rimraf pkg src *.pkg.tar*"
   },
   "author": "Ben Goldberg <jediben97@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "nativefier": "^7.6.12"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.3"
   }
 }

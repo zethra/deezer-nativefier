@@ -12,8 +12,8 @@ source=('package.json'
         'package-lock.json'
         'shortcuts.json'
         'deezer-nativefier.desktop')
-sha256sums=('827c6d0de2f816215c89045afbd09037a3abea58447226a0ceef55f0633288fd'
-            '6cfd9a9dceefec7d747e2590e79db66ae1802a90449a03e702c3067d61c44163'
+sha256sums=('5a4b6a8c66c99b01fa350e52528be9ea33a14ce889ac7215eee330a35964ec9e'
+            '509c67aededb4cc5a743ff85b8280ef0885d4f1bf3d29813fa09e64d55da5fb1'
             '5472ad4d0daebdbf4fdd6c21b37354df435f3ea19d3b28b6dab970ebf04f5bc7'
             'd309682d1daa31aa229fc3cddb1dc537a320383fce1db94f8d11770c599c8301')
 
