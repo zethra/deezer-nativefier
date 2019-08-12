@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=deezer-nativefier
+Terminal=false
+Categories=Audio;AudioVideo
+Icon=Deezer
+
+Name=Deezer
+GenericName=Music
+Comment=A desktop client for Deezer
